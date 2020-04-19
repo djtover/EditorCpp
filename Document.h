@@ -9,7 +9,7 @@ class Document{
     vector<string> vect;
   public:
     Document(){
-      cout<<"Document"<< endl;
+      cout<<"D"<< endl;
     }
     vector<string> getVect();
     void setVect(vector<string> v);

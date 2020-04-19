@@ -7,7 +7,7 @@ class Editor{
     Document doc;
   public:
     Editor(){
-      cout<< "Editor"<<endl;
+      cout<< "E"<<endl;
     }
     void loop();
 };
