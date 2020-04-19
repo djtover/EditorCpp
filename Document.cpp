@@ -1,5 +1,7 @@
 #include "Document.h"
-
+Document::Document(){
+  
+}
 vector<string> Document::getVect(){
   return vect;
 }

@@ -8,9 +8,7 @@ class Document{
   private:
     vector<string> vect;
   public:
-    Document(){
-      cout<<"D"<< endl;
-    }
+    Document();
     vector<string> getVect();
     void setVect(vector<string> v);
     void printVect();

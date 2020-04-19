@@ -16,6 +16,7 @@ you were
 saving
 for dinner
 .
+7,8j
 /dinner
 s/dinner/breakfast/
 a
